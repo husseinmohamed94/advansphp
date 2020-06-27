@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="987b71ac-47a1-4dca-b526-181ebbdcc07e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aObtJ50melUFnP8jiK6XH8w9jL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../estore-master" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="987b71ac-47a1-4dca-b526-181ebbdcc07e" name="Default Changelist" comment="" />
+      <created>1586609801032</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586609801032</updated>
+      <workItem from="1586609802599" duration="12625000" />
+      <workItem from="1586712881359" duration="116000" />
+      <workItem from="1586806985977" duration="4666000" />
+      <workItem from="1586884258629" duration="1059000" />
+      <workItem from="1586885403506" duration="8675000" />
+      <workItem from="1586966941002" duration="11765000" />
+      <workItem from="1587055736247" duration="185000" />
+      <workItem from="1587056767733" duration="21667000" />
+      <workItem from="1587124052618" duration="605000" />
+      <workItem from="1587126617900" duration="123000" />
+      <workItem from="1587337585011" duration="745000" />
+      <workItem from="1587492640610" duration="112000" />
+      <workItem from="1587494899512" duration="1045000" />
+      <workItem from="1587580162856" duration="594000" />
+      <workItem from="1587586860120" duration="282000" />
+      <workItem from="1587587788474" duration="59000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="272" y="22" key="#SQL_Dialects" timestamp="1586885487934">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="272" y="22" key="#SQL_Dialects/0.0.1360.728@0.0.1360.728" timestamp="1586885487934" />
+    <state x="460" y="119" key="FileChooserDialogImpl" timestamp="1587587850344">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="460" y="119" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1587587850344" />
+    <state x="349" y="179" key="NewPhpClassDialog" timestamp="1587056878779">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="349" y="179" key="NewPhpClassDialog/0.0.1360.728@0.0.1360.728" timestamp="1587056878779" />
+    <state x="514" y="287" key="NewPhpFileDialog" timestamp="1587057174350">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="514" y="287" key="NewPhpFileDialog/0.0.1360.728@0.0.1360.728" timestamp="1587057174350" />
+    <state x="181" y="6" key="SettingsEditor" timestamp="1586885565820">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="181" y="6" key="SettingsEditor/0.0.1360.728@0.0.1360.728" timestamp="1586885565820" />
+    <state x="376" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1587126724167">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="376" y="188" key="com.intellij.ide.util.TipDialog/0.0.1360.728@0.0.1360.728" timestamp="1587126724167" />
+    <state x="336" y="162" key="run.anything.popup" timestamp="1587064005651">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="336" y="162" key="run.anything.popup/0.0.1360.728@0.0.1360.728" timestamp="1587064005651" />
+    <state x="343" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1587065847762">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="343" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1360.728@0.0.1360.728" timestamp="1587065847762" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/db.php</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/index.php</url>
+          <line>1</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
